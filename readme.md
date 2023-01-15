@@ -2,7 +2,7 @@
 
 A simple rust todo application adapted from <a>FreecodeCamp</a> in order to learn rust, but as sad as it seems I may not touch it again.
 
-## Requiremnts
+## Requirements
 - Rust.
 - Cargo.
 - Rust Toolchain.
